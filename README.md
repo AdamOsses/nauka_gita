@@ -23,3 +23,5 @@ W rolach glownych:
 
 --- Czesc VI pt. "Sukces" ---
 ... no udalo sie ----
+
+Mala edycja.
