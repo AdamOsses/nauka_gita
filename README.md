@@ -20,3 +20,6 @@ W rolach glownych:
 -- README -
 
 --- Czesc V ...
+
+--- Czesc VI pt. "Sukces" ---
+... no udalo sie ----
